@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer pagina web</title>
+</head>
+<body>
+
+    <h1>Mi nombre es</h1>
+    <h2>Juan David</h2>
+    <h3>Diaz Cuenca</h3>
+    <h4>Programa: tecnologia desarrollo de software</h4>
+    <h5>Edad: 19</h5>
+    <h6>Universidad Surcolombiana</h6>
+
+    <P>
+        Tengo 19 años y cumplo el <b> 13 de agosto </b> Me gusta mucho salir a pasear, caminar, comer 
+        y jugar de vez en cuando <strong>, Mi color favorito es el verde</strong>.
+    </P>
+    <p>
+        <i> En los siguientes enlaces se encontraran mis redes sociales como: Ju.cryzy </i>
+    </p>
+    <section id="menu">
+        
+        <p id="mn">
+            <a href="https://es-la.facebook.com/">Facebook</a>
+            <img src="fb_icon_325x325.ico">
+            <a href="https://www.instagram.com/">Instagram</a><br>
+            <img src="Instagram_logo_2022.ico">
+            <a href="https://twitter.com/home">Twitter</a>
+            <img src="unnamed.ico">
+            <a href="https://www.tiktok.com/es/">Tiktok</a>
+            <img src="unnamed (1).ico">
+        </p>
+   <p> 
+    Mi cancion favorita es:
+    <a href=" https://www.youtube.com/watch?v=3vjkh-acmTE"> Cancion de mitski washing machine heart</a>
+
+   </p>
+    </section>
+    <br>
+
+        <a href="#menu">Menu</a>
+    </section>
+</body>
+</html>
