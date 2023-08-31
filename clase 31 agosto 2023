@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase 31 agosto</title>
+</head>
+
+<body>
+    <h1>Esto es de la clase de hoy 31 de agosto</h1><br>
+    <h4>Juan David Diaz Cueca</h4>
+    <h4>Contactame:</h4>
+    <section>
+        <img class="btn-whatsapp" src="https://clientes.dongee.com/whatsapp.png" width="64" height="64" alt="Whatsapp"
+            onclick="window.location.href='https://wa.me/573143047095?text=Hola!%20Estoy%20interesado%20en%20tu%20servicio'">
+
+        <article>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi dignissimos nihil in ratione assumenda
+                laboriosam,
+                voluptatem sunt exercitationem deleniti illum iusto fugit eius perferendis minus suscipit aliquid
+                quidem,
+                distinctio esse Lorem ipsum dolor sit amet consectetur adipisicing elit. Id debitis, et ipsum aut modi
+                quasi
+                obcaecati accusantium numquam iusto autem harum, explicabo nobis facilis, ipsam repellat itaque
+                reprehenderit! Dolore, omnis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere voluptate
+                dolore animi fuga sint, architecto dolor culpa laboriosam corporis eos quisquam magnam sunt vitae illo
+                minus
+                deserunt ratione maxime hic earum alias sequi! Nobis at et incidunt voluptate, dolor unde.
+            </p>
+        </article>
+    </section>
+    <main>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rbuYtrNUxg4?si=JPfF1v9uJjgvesS7"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+    </main>
+
+    <footer>
+        <footer> <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.5771310385558!2d-75.27246402522351!3d2.937132554419779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3b74154243c1cf%3A0x94067ebfe72e4fb4!2sSURCOLOMBIANA!5e0!3m2!1ses-419!2sco!4v1693523839198!5m2!1ses-419!2sco"
+                width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <form method="get">
+                <fieldset> Datos de usuario: <br>
+                    <label>Nombre</label><input type="text" id="nm" placeholder="Escriba su nombre" required><br>
+                    <label>Apellido</label><input type="text" id="ap" placeholder="Escriba su apellido" required><br>
+                    <label>Email</label><input type="email" id="email" placeholder="Escriba su email" required><br>
+                    <label>Contraseña</label><input type="password" id="Contraseña" placeholder="Escriba su contraseña"
+                        required><br>
+                    <label>Guardar</label><input type="submit" id="Guardar" placeholder="Guardar"><br>
+
+
+
+                </fieldset>
+            </form>
+        </footer>
+    </footer>
+</body>
+
+</html>
